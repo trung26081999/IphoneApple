@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/IphoneApple/static/css/main.baa8577a.css",
+    "main.js": "/IphoneApple/static/js/main.3e18c8f3.js",
+    "static/js/787.58276489.chunk.js": "/IphoneApple/static/js/787.58276489.chunk.js",
+    "index.html": "/IphoneApple/index.html",
+    "main.baa8577a.css.map": "/IphoneApple/static/css/main.baa8577a.css.map",
+    "main.3e18c8f3.js.map": "/IphoneApple/static/js/main.3e18c8f3.js.map",
+    "787.58276489.chunk.js.map": "/IphoneApple/static/js/787.58276489.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.baa8577a.css",
+    "static/js/main.3e18c8f3.js"
+  ]
+}
